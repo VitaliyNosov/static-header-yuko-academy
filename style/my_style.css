@@ -1,0 +1,77 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #C8C8A1;
+}
+
+header {
+  background-color: #F2EFF1;
+}
+
+.my-primary-color {
+  background-color: #F2EFF1;
+}
+
+.nav-link {
+  color: #353432 !important;
+}
+
+.navbar-brand {
+  color: #353432 !important;
+}
+
+.navbar-brand img {
+  max-width: 200px;
+  min-height: 45px;
+}
+
+.navbar {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.navbar-toggler-icons i {
+  color: #353432;
+}
+
+.btn-light {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.btn-light:hover {
+  background-color: #CCCCCC !important;
+}
+
+.btn-indigo {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.btn-indigo:hover {
+  background-color: #3848A1 !important;
+}
+
+.link-custom {
+  font-size: 12px !important;
+  font-weight: bold;
+}
+
+.link-custom:hover {
+  color: red !important;
+}
+
+.link-margin {
+  margin-right: 70px;
+}
+
+.link-active {
+  color: #003869 !important;
+  font-size: 10px;
+}
+
+.link-no-active {
+  color: #9B9B9B !important;
+  font-size: 10px;
+}
+/*# sourceMappingURL=my_style.css.map */
